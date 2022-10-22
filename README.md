@@ -1,1 +1,1 @@
-# sparkle-e-commercee website
+# sparkle-e-commerce website
